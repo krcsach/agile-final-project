@@ -7,10 +7,6 @@ assignees: ''
 
 ---
 
-György Pintér <krcsach@gmail.com>
-márc. 24., P 18:16 (6 nappal ezelőtt)
-címzett: én
-
 **As a** [role]  
  **I need** [function]  
  **So that** [benefit]  
